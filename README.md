@@ -1,5 +1,5 @@
-### Hi there 👋
 <img src="https://raw.githubusercontent.com/KarinaMastbaum/karinamastbaum/main/portada-github.png" alt="Welcome to my GitHub">
+
 <!--
 **KarinaMastbaum/karinamastbaum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
