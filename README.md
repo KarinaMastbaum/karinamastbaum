@@ -2,7 +2,9 @@
 
 
 <p style="font-size:30px" "font-weight:bold>Hi! I'am Karina</p>
-<h1>Hi! I'am Karina</h1>
+<h2>Hi! I'am Karina</h2>
+                           
+<h3>A passionate Flutter developer from Argentina</h3>                          
 <!--
 **KarinaMastbaum/karinamastbaum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
