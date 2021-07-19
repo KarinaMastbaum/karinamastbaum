@@ -1,8 +1,6 @@
 <img src="https://raw.githubusercontent.com/KarinaMastbaum/karinamastbaum/main/portada-github.png" alt="Welcome to my GitHub">
 
-
-<p style="font-size:30px" "font-weight:bold>Hi! I'am Karina</p>
-<h2>Hi! I'am Karina</h2>
+<h2>Hi! I am Karina</h2>
                            
 <h3>A passionate Flutter developer from Argentina</h3>                          
 <!--
