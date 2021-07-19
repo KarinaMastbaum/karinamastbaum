@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/KarinaMastbaum/karinamastbaum/main/portada-github.png" alt="Welcome to my GitHub">
 
 
-<p style="font-size:30px">Hi! I'am Karina</p>
+<p style="font-size:30px" "font-weight:bold>Hi! I'am Karina</p>
 
 <!--
 **KarinaMastbaum/karinamastbaum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
