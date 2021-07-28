@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/KarinaMastbaum/karinamastbaum/main/Animation2.gif" alt="Welcome to my GitHub">
+<img src="https://raw.githubusercontent.com/KarinaMastbaum/karinamastbaum/main/image.gif" alt="Welcome to my GitHub">
 
 <h2>Hi! I am Karina</h2>
                            
